@@ -1,0 +1,23 @@
+segment_sources:
+  P5ADEEDB2:
+    type: origin_type
+    relation: translation
+    language: zh
+  PA311F1F4:
+    type: origin_type
+    relation: translation
+    language: zh
+  P57EC2ACB:
+    type: origin_type
+    relation: translation
+    language: bo
+  P774F3755:
+    type: origin_type
+    relation: translation
+    language: sa
+segment_pairs:
+  705ee7cdb2f44d8ab86c567745332e22:
+    P5ADEEDB2: 5318f26994dc4e7ba05587c44ffe4e0a
+    PA311F1F4: 710b2f4d9cef4a85b4d386fc09aa5df6
+    P57EC2ACB: ce84bcb40f50495593e81fe6ddf722d7
+    P774F3755: a29b7c7669414abca0af7cb69252bf75
